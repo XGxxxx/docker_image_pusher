@@ -22,3 +22,4 @@ prom/prometheus:v2.53.0
 prom/alertmanager:v0.27.0
 docker.elastic.co/elasticsearch/elasticsearch:7.10.0
 docker.elastic.co/kibana/kibana:7.10.0
+erichough/nfs-server:latest
