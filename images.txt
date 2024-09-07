@@ -23,4 +23,4 @@ prom/alertmanager:v0.27.0
 docker.elastic.co/elasticsearch/elasticsearch:7.10.0
 docker.elastic.co/kibana/kibana:7.10.0
 erichough/nfs-server:latest
-rookieops/argocd-test-app:v2
+public-namespace/myapp:v1
